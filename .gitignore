@@ -1,6 +1,7 @@
 *
 !.gitignore
 !README.txt
+!README.md
 !*/
 !*.png
 !*.jpg
