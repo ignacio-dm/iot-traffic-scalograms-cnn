@@ -1,15 +1,8 @@
-
 *
-
 !.gitignore
-
+!README.txt
 !*/
-
 !*.png
-
 !*.jpg
-
 !*.jpeg
-
 !*.webp
-
